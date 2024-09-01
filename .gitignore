@@ -1,3 +1,5 @@
 .vscode/
 .gitattributes/
 *.sln/
+bin/
+obj/
